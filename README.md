@@ -34,8 +34,8 @@ Note: Remember to notice edge cases and test cases e.g empty lists and single it
 
 | Difficulty | Solved | Targeted |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 2 | 100 |
-| 🟡 **Medium** | 0 | 150 |
+| 🟢 **Easy** | 4 | 100 |
+| 🟡 **Medium** | 1 | 150 |
 | 🔴 **Hard** | 0 | 50 |
 | **Total** | **2** | **300** |
 
